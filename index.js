@@ -5,12 +5,12 @@ function myAnimal() {
 }
 
 function yourAnimal() {
-  animal = cat;
+  animal = "cat";
   return animal
 }
 
 function add2(n) {
-  return n + two
+  return n + 2
 
   // Feel free to move things around!
   const two = 2
